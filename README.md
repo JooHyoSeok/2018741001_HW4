@@ -9,4 +9,4 @@
 * ###를 연습하기 위해 만들어졌습니다.
 
 
-###이 repository는 Collaborator인 김혜동
+###이 repository는 Collaborator인 KIM-HYEDO 에 의해서 수정되었습니다
